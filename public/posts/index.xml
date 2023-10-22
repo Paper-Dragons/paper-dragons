@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Buy Paper Dragons</title>
+    <link>https://paperdragons.pages.dev/posts/</link>
+    <description>Recent content in Posts on Buy Paper Dragons</description>
+    <image>
+      <title>Buy Paper Dragons</title>
+      <url>https://paperdragons.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://paperdragons.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://paperdragons.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/posts/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/posts/pricing/</guid>
+      <description>Pricing of the paper dragons: Tropical Design: R62 Spring Design: R55 Water Design: R55 Summer Design: R62 </description>
+    </item>
+    
+  </channel>
+</rss>

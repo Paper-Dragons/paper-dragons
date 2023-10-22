@@ -1,0 +1,2 @@
+# Buy
+Go up to Mia during school times then tell her the design you want then give her the money (find the pricing [here](https://paperdragons.pages.dev)), and you will recieve you paper dragon at school within 2 - 5 business days. If you do not recieve you paper dragon withing 10 business days you may get a refund.

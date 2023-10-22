@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buy Paper Dragons</title>
+    <link>https://paperdragons.pages.dev/</link>
+    <description>Recent content on Buy Paper Dragons</description>
+    <image>
+      <title>Buy Paper Dragons</title>
+      <url>https://paperdragons.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://paperdragons.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://paperdragons.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/about/</guid>
+      <description>About Welcome to my website, this website sells different types of paper dragons, which are tropical, winter, summer, autumn, spring, water and fire designs + mini dragons!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/buy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/buy/</guid>
+      <description>Buy Go up to Mia during school times then tell her the design you want then give her the money (find the pricing here), and you will recieve you paper dragon at school within 2 - 5 business days. If you do not recieve you paper dragon withing 10 business days you may get a refund.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/pricing/</guid>
+      <description>Pricing of the paper dragons: Tropical Design: R62 Spring Design: R55 Water Design: R55 Summer Design: R62 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/types/</guid>
+      <description>Types of paper dragon designs that I sell: Tropical Design: Summer Design: Spring Design: Winter Design: </description>
+    </item>
+    
+  </channel>
+</rss>
