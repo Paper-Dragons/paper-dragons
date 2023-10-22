@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome!"
-    Content: Welcome to Paper Dragons, this website sells different types of paper dragon designs, which are tropical, winter, summer, autumn, spring, water and fire. Want to buy a Paper Dragon? [Go here](paperdragons.pages.dev/buy). Do you want to see what the designs look like? [Go here](paperdragons.pages.dev/types)
+    Content: Welcome to Paper Dragons, this website sells different types of paper dragon designs, which are tropical, winter, summer, autumn, spring, water and fire. Want to buy a Paper Dragon? [Go here](paperdragons.pages.dev/buy/). Do you want to see what the designs look like? [Go here](paperdragons.pages.dev/types/). Do you want to contact us? [Go here](https://paperdragons.pages.dev/contact-us/).
 
   socialIcons:
 
