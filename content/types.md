@@ -1,4 +1,4 @@
-# Types of paper dragon designs that I sell:
+# Types of paper dragon designs that Mia sells:
 
 - **Tropical Design:**
 ![haf](https://take-me-to.space/fw8mZoD5.jpg)
