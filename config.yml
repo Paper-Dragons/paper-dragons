@@ -16,9 +16,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: Paper Dragons!
+  description: "Buy paper dragons with cdifferent designs!"
+  keywords: [Blog, Portfolio, Paperdragons]
   author: Mia
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome!"
-    Content: Welcome to Paper Dragons, this website sells different types of paper dragon designs, which are tropical, winter, summer, autumn, spring, water and fire. Want to buy a Paper Dragon? [Go here](paperdragons.pages.dev/buy/). Do you want to see what the designs look like? [Go here](paperdragons.pages.dev/types/). Do you want to contact us? [Go here](https://paperdragons.pages.dev/contact-us/).
+    Content: Welcome to Paper Dragons, this website sells different types of paper dragon designs, which are tropical, winter, summer, autumn, spring, water and fire. Want to buy a Paper Dragon? [Go here](https://paperdragons.pages.dev/buy/). Do you want to see what the designs look like? [Go here](https://paperdragons.pages.dev/types/). Do you want to contact us? [Go here](https://paperdragons.pages.dev/contact-us/).
 
   socialIcons:
 
@@ -127,6 +127,11 @@ menu:
     - identifier: Contact Us
       name: Contact Us
       url: /contact-us/
+      weight: 50
+    - identifier: FaQ
+      name: FaQ
+      url: /faq/
+      weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
