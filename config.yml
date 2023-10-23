@@ -19,14 +19,14 @@ params:
   title: Paper Dragons!
   description: "Buy paper dragons with cdifferent designs!"
   keywords: [Blog, Portfolio, Paperdragons]
-  author: Mia
+  author: Paper Dragons!
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -36,7 +36,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Paper Dragons!
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
