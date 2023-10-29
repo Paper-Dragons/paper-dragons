@@ -19,7 +19,7 @@ params:
   title: Paper Dragons!
   description: "Buy paper dragons with cdifferent designs!"
   keywords: [Blog, Portfolio, Paperdragons]
-  author: Paper Dragons!
+  author: 
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"

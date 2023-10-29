@@ -9,8 +9,17 @@
 - **Spring Design:**
 ![Picture 3](https://take-me-to.space/C7DcwSis.jpg)
 
+- **Fire Design:**
+![Picture 4](https://take-me-to.space/FBwQ8Gha.jpg)
+
+- **Lunar Design:**
+![Picture 5](https://take-me-to.space/9fVWPBGU.jpg)
+
+- **Water Design:**
+![Picture 6](https://take-me-to.space/UKek2XGU.jpg)
+
 - **Winter Design:**
-![Picture 4](https://take-me-to.space/TfqNt2Ew.jpg)
+![Picture 7](https://take-me-to.space/TfqNt2Ew.jpg)
 
 ### Want a custom design? 
 Contact us [here](https://paperdragons.pages.dev/contact-us/) and tell us what design you want by explaining the design or show us a picture of what you want and Mia will make it. The price of a custom paper dragon may vary depending on the design and time it will take to make it.
