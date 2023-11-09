@@ -10,7 +10,7 @@ No there is not at the moment, we will create a additional website soon though.
 
 ### 3. I'm in a different town / city / country, can I still get a paper dragon?
 
-It depends, if you know Mia, and visit her or meet once in a while then yes you can get one. Just ask her for one and wehn you do meet Mia you will get your paper dragon, just make sure you have the right amount of money.
+It depends, if you know Mia, and visit her or meet once in a while then yes you can get one. Just ask her for one and when you do meet Mia you will get your paper dragon, just make sure you have the right amount of money.
 
 ### 4. Is there discounts / giveaways where I can get a paper dragon for free?
 
