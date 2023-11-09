@@ -12,3 +12,5 @@
 ***
 
 To see the pictures of the different designs [go here](https://paperdragons.pages.dev/types)
+
+***
