@@ -6,7 +6,7 @@ To get a paper dragon even if you are not in the same school is simple, if you k
 
 ### 2. If the website is down, is there another way to get access to the website?
 
-Yes there is, if this main website is down for whatever reason, go to https://paperdragons.github.io.
+No there is not at the moment, we will create a additional website soon though.
 
 ### 3. I'm in a different town / city / country, can I still get a paper dragon?
 
