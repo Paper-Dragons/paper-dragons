@@ -2,6 +2,11 @@
 Found a mistake on the website? Have a question? Confused? Contact us!
 
 **Email:**
-~~paper-dragons@outlook.com~~ 
+paper-dragons@hotmail.com
 
-**(The email currently is  non-functional and will not work, we are working to resolve the issue. As an alternative, contact Mia in person. Sorry for the inconvinience.)**
+**WhatsApp:**
+27 79 392 8118
+
+-**Or**-
+
+You can also contact Mia in person such as in school, at her house etc.
