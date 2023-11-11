@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Buy Paper Dragons</title>
+    <title>Paper Dragons</title>
     <link>https://paperdragons.pages.dev/</link>
-    <description>Recent content on Buy Paper Dragons</description>
+    <description>Recent content on Paper Dragons</description>
     <image>
-      <title>Buy Paper Dragons</title>
+      <title>Paper Dragons</title>
       <url>https://paperdragons.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://paperdragons.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -17,7 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://paperdragons.pages.dev/about/</guid>
-      <description>About Welcome to my website, this website sells different types of paper dragons, which are tropical, winter, summer, autumn, spring, water and fire designs + mini dragons!</description>
+      <description>About this business This website sells different types of paper dragons, which are tropical, winter, summer, autumn, spring, water and fire designs + mini dragons! These won&amp;rsquo;t be the only designs though, we will eventually introduce more designs. Note that you can only buy a paper dragon if you meet the following requirments:
+You and Mia are in the same school You and Mia know each other in real life and can meet to get the paper draagon These are the basic requirments you need to have before you can get a paper dragon.</description>
     </item>
     
     <item>
@@ -26,7 +27,29 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://paperdragons.pages.dev/buy/</guid>
-      <description>Buy Go up to Mia during school times then tell her the design you want then give her the money (find the pricing here), and you will recieve you paper dragon at school within 2 - 5 business days. If you do not recieve you paper dragon withing 10 business days you may get a refund.</description>
+      <description>Buy a paper dragon Go to Mia during school times or at her house and tell her the design you want then give her the correct amount of money (find the pricing here), and you will recieve you paper dragon at school within 2 - 5 business days. If you do not recieve you paper dragon withing 10 business days you may get a refund or a discount, which ever one you choose.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/contact-us/</guid>
+      <description>Contact us Found a mistake on the website? Have a question? Confused? Contact us!
+Email: paper-dragons@hotmail.com
+WhatsApp: +27 79 392 8118
+- Or -
+You can also contact Mia in person such as in school, at her house etc.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paperdragons.pages.dev/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paperdragons.pages.dev/faq/</guid>
+      <description>FaQ (Frequently Asked Questions) 1. I&amp;rsquo;m not in the same school as Mia but I want a paper dragon, how can I get one? To get a paper dragon even if you are not in the same school is simple, if you know Mia either message her or meet her in person and ask for one (make sure you have the money ready). Just note that if you do not know Mia in person, you will not be able to get a paper dragon at the moment.</description>
     </item>
     
     <item>
@@ -35,7 +58,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://paperdragons.pages.dev/pricing/</guid>
-      <description>Pricing of the paper dragons: Tropical Design: R62 Spring Design: R55 Water Design: R55 Summer Design: R62 </description>
+      <description>Pricing of the paper dragons: Tropical Design: R62 Spring Design: R55 Winter Design: R25 Summer Design: R62 Lunar Design: R42 Water Design: R42 Fire Design: R42 Custom Design: The price for the custom design may vary depending on your request. For more info on a custom design go here To see the pictures of the different designs go here</description>
     </item>
     
     <item>
@@ -44,8 +67,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://paperdragons.pages.dev/types/</guid>
-      <description>Types of paper dragon designs that I sell: Tropical Design: Summer Design: Spring Design: Winter Design: </description>
+      <description>Types of paper dragon designs that Mia sells: Tropical Design: Summer Design: Spring Design: Fire Design: Lunar Design: Water Design: Winter Design: Want a custom design? Contact us here and tell us what design you want by explaining the design or show us a picture of what you want and Mia will make it. The price of a custom paper dragon may vary depending on the design and time it will take to make it.</description>
     </item>
+    
     
   </channel>
 </rss>
