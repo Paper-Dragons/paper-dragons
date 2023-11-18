@@ -26,7 +26,7 @@ Contact us [here](https://paperdragons.pages.dev/contact-us/) and tell us what d
 
 ***
 
-Note: Your paper dragon may look a little different compared to these pictures and Mia is still designing more paper dragon designs, so these won't be the only ones forever. To see the prices for each of these paper dragons [go here](https://paperdragons.pages.dev/pricing
+Note: Your paper dragon may look a little different compared to these pictures and Mia is still designing more paper dragon designs, so these won't be the only ones forever. To see the prices for each of these paper dragons [go here](https://paperdragons.pages.dev/pricing)
 
 ***
 
